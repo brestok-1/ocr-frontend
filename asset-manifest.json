@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ocr-frontend/static/css/main.42c71b03.css",
+    "main.js": "/ocr-frontend/static/js/main.e55a4fb9.js",
+    "index.html": "/ocr-frontend/index.html",
+    "main.42c71b03.css.map": "/ocr-frontend/static/css/main.42c71b03.css.map",
+    "main.e55a4fb9.js.map": "/ocr-frontend/static/js/main.e55a4fb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42c71b03.css",
+    "static/js/main.e55a4fb9.js"
+  ]
+}
